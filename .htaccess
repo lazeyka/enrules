@@ -28,7 +28,7 @@ ExpiresByType application/x-font-ttf "access plus 1 month"
 ExpiresByType application/x-font-opentype "access plus 1 month"
 ExpiresByType application/x-font-woff "access plus 1 month"
 ExpiresByType image/svg+xml "access plus 1 month"
-# Cache other content types (Flash, CSS, JS, HTML, XML)
+# Cache other content
 ExpiresByType application/x-shockwave-flash "access plus 1 month"
 ExpiresByType text/css "access plus 604800 seconds"
 ExpiresByType text/javascript "access plus 1 month"
